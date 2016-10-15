@@ -1,0 +1,32 @@
+body {
+	background-color: #333333;
+	font-family: 'Montserrat', sans-serif;
+	color: #333333;
+}
+
+/* Header styles */
+#header-container {
+	color: #fccb19;
+	padding-top: 0.5em;
+}
+#header-container h1 {
+	font-family: 'Luckiest Guy', cursive;
+}
+
+/* Menu styles */
+#menu-container {
+	padding: 0.5em;
+	background-color: #efefef
+;
+}
+#menu-container .form-control:focus {
+	border-color: #888888;
+}
+#menu-container .btn-buscar {
+	color: #444444;
+	background-color: #fccb19;
+}
+#menu-container .btn-buscar:hover {
+	border-color: #E5B919;
+	background-color: #E5B919;
+}
